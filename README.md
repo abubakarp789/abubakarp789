@@ -1,8 +1,3 @@
-## Hi there 👋
-Here's the updated README with your two projects included:
-
----
-
 ## Hello, I'm Abu Bakar! 👋
 
 ### 📚 About Me
@@ -10,19 +5,25 @@ I'm a passionate Computer Science student at Namal University, Mianwali, with a 
 
 ### 🛠️ Skills
 **Top Skills:**
-- C++
-- Python
-- Machine Learning
-- Front-End Development
-- Data Structures
-- Generative AI
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span>C++,</span>
+  <span>Python,</span>
+  <span>Machine Learning,</span>
+  <span>Front-End Development,</span>
+  <span>Data Structures,</span>
+  <span>Generative AI,</span>
+  <span>Databases</span>
+</div>
+<br>
 
 **Minor Skills:**
-- MS Office
-- Git and GitHub
-- Web Interface Design
-- Cloud Computing
-- Marketing
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span>MS Office,</span>
+  <span>Git and GitHub,</span>
+  <span>Web Interface Design,</span>
+  <span>Cloud Computing,</span>
+  <span>Marketing</span>
+</div>
 
 ### 💼 Experience
 **Machine Learning Fellow**  
@@ -37,15 +38,17 @@ I'm a passionate Computer Science student at Namal University, Mianwali, with a 
 - Developed a personal portfolio showcasing structured and professional information.
 
 ### 📊 My Projects
-**[Formula 1 Grand Prix Winner Prediction](#)**  
-- Predict future F1 winners using machine learning models. [Link to the repository](#).
+**[Formula 1 Grand Prix Winner Prediction](https://github.com/abubakarp789/100DaysOfBytewiseFellowship/tree/main/Bytewise%20Fellowship%20Daily%20Task%20Solution/Project%2302)**  
+- An ML project built as part of the Bytewise fellowship, Predict future F1 winners using machine learning models. [Link to the repository](https://github.com/abubakarp789/100DaysOfBytewiseFellowship/tree/main/Bytewise%20Fellowship%20Daily%20Task%20Solution/Project%2302).
 
-**[Sales Prediction Based on Historical Data](https://github.com/abubakarp789/100DaysOfBytewiseFellowship)**  
-- An AI project built as part of the Bytewise fellowship, focusing on predicting product sales using historical data. [Link to the repository](https://github.com/abubakarp789/100DaysOfBytewiseFellowship).
+**[Sales Prediction Based on Historical Data](https://github.com/abubakarp789/100DaysOfBytewiseFellowship/tree/main/Bytewise%20Fellowship%20Daily%20Task%20Solution/Project%2301)**  
+- An ML project built as part of the Bytewise fellowship, focusing on predicting product sales using historical data. [Link to the repository](https://github.com/abubakarp789/100DaysOfBytewiseFellowship/tree/main/Bytewise%20Fellowship%20Daily%20Task%20Solution/Project%2301).
 
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  </a>
 </div>
 
 ### 🎓 Education
@@ -62,15 +65,7 @@ I'm a passionate Computer Science student at Namal University, Mianwali, with a 
 - [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/learn/microsoft-365-fundamentals) | Coursera | Sep '23
 - [Introduction to Front-End Development](https://www.coursera.org/learn/front-end-development) | Coursera | Aug '23
 
-
-
 ### 🌟 Volunteering
-**Marketing Coordinator**  
-*Digital Empowerment Network* | Aug '24 - Present  
-- Led marketing efforts to enhance visibility and engagement.
-- Developed and executed strategies to effectively reach target audiences.
-- Planned and implemented successful marketing campaigns.
-
 **Volunteer Teacher**  
 *Namal Society for Social Impact (NSSI)* | Nov '23  
 - Taught physics and chemistry, creating engaging lesson plans and interactive activities to support student learning.
@@ -84,19 +79,3 @@ I'm a passionate Computer Science student at Namal University, Mianwali, with a 
 - **Phone**: 03480472778
 - **Email**: [abubakarp789@gmail.com](mailto:abubakarp789@gmail.com)
 - **LinkedIn**: [Abu Bakar](https://www.linkedin.com/in/abubakar56/)
-
-
-<!--
-**abubakarp789/abubakarp789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
