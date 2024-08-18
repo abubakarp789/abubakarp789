@@ -51,7 +51,7 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard">
+  <a href="https://api.badgr.io/public/assertions/gtb3rpm3RGaYAg_JlRCYmA?identity__email=abubakarp789%40gmail.com">
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   </a>
 </div>
