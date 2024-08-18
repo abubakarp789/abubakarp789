@@ -11,15 +11,12 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abubakarp789](https://github.com/abubakarp789)
-
 - 📝 I regularly write articles on [https://medium.com/@abubakarp789](https://medium.com/@abubakarp789)
 
 - 💬 Ask me about **AI, ML, LLM, Generative AI**
 
-- 📫 How to reach me **abubakarp789@namal.edu.pk**
+- 📫 How to reach me **abubakarp789@gmail.com**
 
-- ⚡ Fun fact **I have a Introvert personality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
