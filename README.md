@@ -85,9 +85,4 @@
 - **Email**: [abubakarp789@gmail.com](mailto:abubakarp789@gmail.com)
 - **LinkedIn**: [Abu Bakar](https://www.linkedin.com/in/abubakar56/)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarp789&show_icons=true&locale=en&layout=compact" alt="abubakarp789" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarp789&show_icons=true&locale=en" alt="abubakarp789" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarp789&" alt="abubakarp789" /></p>
