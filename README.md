@@ -1,4 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abubakarp789&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarp789" /> </p>.
+[![An image of @abubakarp789's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abubakarp789)](https://holopin.io/@abubakarp789)
+<img src="https://holopin.io/abubakarp789"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Abu+Bakar!;" />
 </h1>
