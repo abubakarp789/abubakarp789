@@ -1,8 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abubakarp789&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarp789" /> </p>.
-<a href="https://holopin.io/@abubakarp789" title="View my Holopin profile">
-   <img src="https://holopin.me/abubakarp789" alt="An image of @abubakarp789's Holopin badges" style="border: 2px solid #000; border-radius: 10px;">
-</a>
-<img src="https://holopin.io/abubakarp789"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Abu+Bakar!;" />
 </h1>
@@ -43,6 +39,9 @@
   <br/><br/><br/>
 </div>
 <hr/>
+<a href="https://holopin.io/@abubakarp789" title="View my Holopin profile">
+   <img src="https://holopin.me/abubakarp789" alt="An image of @abubakarp789's Holopin badges" style="border: 2px solid #000; border-radius: 10px;">
+</a>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
