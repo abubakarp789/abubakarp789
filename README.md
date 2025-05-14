@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abubakarp789&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=abubakarp789)](https://git.io/streak-stats)
   
   <img src="https://komarev.com/ghpvc/?username=abubakarp789&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarp789" />
 </div>
