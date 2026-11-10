@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Abu+Bakar!;+AI%2FML+%26+Full-Stack+Software+Engineer;+1%2C008+Automated+Tests+Across+12+Repos;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Abu+Bakar!;+AI%2FML+%26+Full-Stack+Software+Engineer;" />
 </h1>
 
-<h3 align="center">AI/ML & Full-Stack Software Engineer | BSCS Graduate (Namal University) | Karachi, Pakistan</h3>
+<h3 align="center">AI/ML & Full-Stack Software Engineer | BSCS Graduate | Karachi, Pakistan</h3>
 
 <div align="center">
   
@@ -25,33 +25,32 @@ class SoftwareAndAIEngineer:
         self.education = "BS Computer Science @ Namal University Mianwali (Oct 2022 - July 2026)"
         self.location = "Karachi, Pakistan"
         self.languages_spoken = ["en_US", "ur_PK"]
-        self.testing_rigor = "1,008 Automated Tests (870+ in Python: pytest, Hypothesis, Vitest)"
         self.current_focus = [
             "RAG & Multi-Provider LLM Systems",
-            "Full-Stack Web Engineering (Next.js 16 / React 19 / FastAPI / Flask / MERN)",
+            "Full-Stack Web Engineering (Next.js / React / FastAPI / Flask / MERN)",
             "Applied NLP & Classical/Deep Learning Pipelines",
             "Cryptographic Backend Systems & Automated QA"
         ]
         self.experience = [
             # GenAI, RAG & LLM Engineering
-            "9-Stage RAG Pipelines", "ChromaDB Vector Search (7,052 Docs)",
+            "RAG Pipelines", "ChromaDB Vector Search",
             "Multi-Provider LLM Fallback (Groq, OpenAI, Anthropic, Ollama, HuggingFace, Gemini)",
             "AST Static & Sandboxed Runtime Code Evaluation", "CodeBERT Semantic Gates",
 
             # Machine Learning & NLP
-            "Urdu Sentiment & Emotion Classification (1.05M Tweets)",
+            "Urdu Sentiment & Emotion Classification",
             "Transformers (mBERT, XLM-RoBERTa)", "BiLSTM", "Linear SVM & Scikit-Learn",
             "Neural Networks from Scratch (NumPy)", "GridSearchCV & Imbalanced Learning",
 
             # Full-Stack & Backend Engineering
-            "Next.js 16 (App Router)", "React 18/19", "TypeScript", "Node.js & Express 5",
-            "Python (Flask, FastAPI)", "PostgreSQL (Prisma 7)", "MongoDB (Mongoose)",
+            "Next.js", "React", "TypeScript", "Node.js & Express",
+            "Python (Flask, FastAPI)", "MySQL", "MongoDB",
             "Upstash Redis Rate Limiting", "Pydantic & Zod Schema Validation",
 
             # Security, Cryptography & Cloud DevOps
-            "RSA 2048-Bit Digital Signatures (PKCS#1 v1.5 & PSS)", "AES-256 Encrypted Storage",
-            "X.509-Style Certificate Workflows", "JWT (RS256 / HS256) & Multi-Layer RBAC",
-            "Docker Compose (4-Service Orchestration)", "GitHub Actions CI/CD", "Azure & Vercel"
+            "RSA 2048-Bit Digital Signatures", "AES-256 Encrypted Storage",
+            "X.509-Style Certificate Workflows", "JWT & Multi-Layer RBAC",
+            "Docker Compose", "GitHub Actions CI/CD", "Azure & Vercel"
         ]
 
     def say_hi(self):
@@ -63,8 +62,8 @@ me.say_hi()
 
 ## 🔭 What I Build & Recent Highlights
 
-- **AI-Native Code Platforms & RAG Systems ([SudhaarAI](https://github.com/abubakarp789/SudhaarAI))**
-  - Co-built a full-stack AI code learning and refactoring platform combining **Next.js 16 (React 19, TypeScript)** and **31 Flask REST API routes** with a **9-stage RAG pipeline** over **7,052 ChromaDB documents**, **5-provider LLM fallback** (`Groq`, `OpenAI`, `Anthropic`, `Ollama`, `HuggingFace`), an **18-feature quality scorer** (`8` AST static + `5` sandboxed runtime + `5` best-practice rules) with a **0.95 CodeBERT similarity gate**, **4-service Docker Compose** deployment on **Azure**, and **550 automated tests**.
+- **Final Year Project ([SudhaarAI](https://github.com/abubakarp789/SudhaarAI))**
+  - Co-built a full-stack AI code learning and refactoring platform combining **Next.js (React, TypeScript)** and **30+ Flask REST API routes** with a **RAG pipeline** over **7,000+ ChromaDB documents**, **5-provider LLM fallback** (`Groq`, `OpenAI`, `Anthropic`, `Ollama`, `HuggingFace`), an **18-feature quality scorer** (`8` AST static + `5` sandboxed runtime + `5` best-practice rules) with a **0.95 CodeBERT similarity gate**, **4-service Docker Compose** deployment on **Azure**, and **550+ automated tests**.
 
 - **Large-Scale Urdu NLP & Applied Machine Learning ([Urdu NLP](https://github.com/abubakarp789/Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets) & [HR Attrition Predictor](https://github.com/abubakarp789/HR-Attrition-Predictor))**
   - Co-developed a **1.05M-tweet Urdu corpus pipeline** benchmarking **8 model families** (`Linear SVM` achieving `0.5040` sentiment and `0.2854` emotion Macro-F1 alongside `BiLSTM`, `mBERT`, and `XLM-RoBERTa`).
