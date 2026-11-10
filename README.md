@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Abu+Bakar!;+ML+Engineer+%26+Data+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I+am+Abu+Bakar!;+AI%2FML+%26+Full-Stack+Software+Engineer;+1%2C008+Automated+Tests+Across+12+Repos;" />
 </h1>
 
-<h3 align="center">Machine Learning Engineer & Data Scientist from Pakistan</h3>
+<h3 align="center">AI/ML & Full-Stack Software Engineer | BSCS Graduate (Namal University) | Karachi, Pakistan</h3>
 
 <div align="center">
   
@@ -18,121 +18,140 @@
 ## 🔍 About Me
 
 ```python
-class ComputerScientist:
+class SoftwareAndAIEngineer:
     def __init__(self):
         self.name = "Abu Bakar"
-        self.role = "Machine Learning & Software Engineer"
-        self.language_spoken = ["en_US", "ur_PK"]
-        self.current_focus = ["Machine Learning", "Generative AI", "Distributed Systems", "Cybersecurity"]
+        self.role = "AI/ML & Full-Stack Software Engineer"
+        self.education = "BS Computer Science @ Namal University Mianwali (Oct 2022 - July 2026)"
+        self.location = "Karachi, Pakistan"
+        self.languages_spoken = ["en_US", "ur_PK"]
+        self.testing_rigor = "1,008 Automated Tests (870+ in Python: pytest, Hypothesis, Vitest)"
+        self.current_focus = [
+            "RAG & Multi-Provider LLM Systems",
+            "Full-Stack Web Engineering (Next.js 16 / React 19 / FastAPI / Flask / MERN)",
+            "Applied NLP & Classical/Deep Learning Pipelines",
+            "Cryptographic Backend Systems & Automated QA"
+        ]
         self.experience = [
-                            # Machine Learning & NLP
-                            "NLP", "Urdu Sentiment & Emotion Analysis", "Large Language Models",
-                            "Transformers", "Neural Networks", "Random Forests", "Transfer Learning",
-                            "Classification", "Regression", "Clustering", "Prompt Engineering",
-                            
-                            # Parallel & Distributed Systems
-                            "Parallel Computing", "Distributed Socket Systems", "Multi-user Systems",
-                            
-                            # Cybersecurity & Cryptography
-                            "Log Analysis", "Threat Detection", "RSA Cryptography",
-                            "Digital Signatures", "SHA-256 Hashing", "Defensive Operations",
-                            
-                            # Data Science & Analysis
-                            "Exploratory Data Analysis", "Data Preprocessing", "Statistical Analysis",
-                            "Data Visualization", "Feature Engineering", "Time Series Analysis",
-                            
-                            # Web Application Development
-                            "Full-Stack Development", "Real-time Messaging", "Cloud Deployment"
-                        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build secure, intelligent systems together!")
+            # GenAI, RAG & LLM Engineering
+            "9-Stage RAG Pipelines", "ChromaDB Vector Search (7,052 Docs)",
+            "Multi-Provider LLM Fallback (Groq, OpenAI, Anthropic, Ollama, HuggingFace, Gemini)",
+            "AST Static & Sandboxed Runtime Code Evaluation", "CodeBERT Semantic Gates",
 
-me = ComputerScientist()
+            # Machine Learning & NLP
+            "Urdu Sentiment & Emotion Classification (1.05M Tweets)",
+            "Transformers (mBERT, XLM-RoBERTa)", "BiLSTM", "Linear SVM & Scikit-Learn",
+            "Neural Networks from Scratch (NumPy)", "GridSearchCV & Imbalanced Learning",
+
+            # Full-Stack & Backend Engineering
+            "Next.js 16 (App Router)", "React 18/19", "TypeScript", "Node.js & Express 5",
+            "Python (Flask, FastAPI)", "PostgreSQL (Prisma 7)", "MongoDB (Mongoose)",
+            "Upstash Redis Rate Limiting", "Pydantic & Zod Schema Validation",
+
+            # Security, Cryptography & Cloud DevOps
+            "RSA 2048-Bit Digital Signatures (PKCS#1 v1.5 & PSS)", "AES-256 Encrypted Storage",
+            "X.509-Style Certificate Workflows", "JWT (RS256 / HS256) & Multi-Layer RBAC",
+            "Docker Compose (4-Service Orchestration)", "GitHub Actions CI/CD", "Azure & Vercel"
+        ]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build tested, production-ready intelligent systems together.")
+
+me = SoftwareAndAIEngineer()
 me.say_hi()
 ```
 
-## 🔭 Current Focus
-  
-- **BS Computer Science @ Namal University Mianwali**
-  - Actively studying Software Engineering, AI/ML/NLP and Web Application Development.
-  - Applying academic theory directly to robust open-source projects.
-  
-- **Advanced NLP & Deep Learning Research**
-  - Fine-tuning models for sentiment and emotion classification on noisy Urdu tweets.
-  - Working on next-generation text and representation learning projects.
-  
-- **Intelligent Distributed & Cloud Systems**
-  - Building multi-user secure remote access architectures and cloud-deployed full-stack projects.
-  - Exploring real-time style intelligence with BarberAI.
+## 🔭 What I Build & Recent Highlights
 
-## 🎓 Education & Certifications
+- **AI-Native Code Platforms & RAG Systems ([SudhaarAI](https://github.com/abubakarp789/SudhaarAI))**
+  - Co-built a full-stack AI code learning and refactoring platform combining **Next.js 16 (React 19, TypeScript)** and **31 Flask REST API routes** with a **9-stage RAG pipeline** over **7,052 ChromaDB documents**, **5-provider LLM fallback** (`Groq`, `OpenAI`, `Anthropic`, `Ollama`, `HuggingFace`), an **18-feature quality scorer** (`8` AST static + `5` sandboxed runtime + `5` best-practice rules) with a **0.95 CodeBERT similarity gate**, **4-service Docker Compose** deployment on **Azure**, and **550 automated tests**.
+
+- **Large-Scale Urdu NLP & Applied Machine Learning ([Urdu NLP](https://github.com/abubakarp789/Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets) & [HR Attrition Predictor](https://github.com/abubakarp789/HR-Attrition-Predictor))**
+  - Co-developed a **1.05M-tweet Urdu corpus pipeline** benchmarking **8 model families** (`Linear SVM` achieving `0.5040` sentiment and `0.2854` emotion Macro-F1 alongside `BiLSTM`, `mBERT`, and `XLM-RoBERTa`).
+  - Engineered a **5-fold GridSearchCV-tuned Decision Tree** (`97.97%` accuracy, `0.9566` minority-class F1, `0.9717` Macro-F1 on `14,999` HR records) served via a containerized **7-endpoint Flask REST API + React 19 SPA**.
+
+- **Cryptographic Backends & Full-Stack Web Apps ([Certea](https://github.com/abubakarp789/Certea), [Rumi House Hub](https://github.com/abubakarp789/Rumi-House-Hub), [Ustad](https://github.com/abubakarp789/ustad))**
+  - Built **Certea** (`FastAPI` + `Next.js 14` digital signature platform with `RSA-2048`, `AES-256`, `X.509-style` certificates, and **320 pytest tests**), **Rumi House Hub** (`MERN` stack with `7` Mongoose schemas, `3`-layer JWT/RBAC authorization, and **74 tests**), and **Ustad** (`Next.js 16` + `PostgreSQL/Prisma 7` + `Gemini` cloud lab automation agent with `Zod` validation and `Upstash Redis` rate limiting).
+
+- **CS & Python Mentorship ([Preply](https://preply.com/en/tutor/8318168))**
+  - **5.0★ Online Python & Computer Science Tutor** on Preply (`30+` completed 1-on-1 lessons); formerly **Head of Skill Development Wing at NSSI Society** and **Beta Microsoft Learn Student Ambassador**.
+
+## 🎓 Education, Fellowships & Leadership
 
 <div align="center">
-  <img src="https://img.shields.io/badge/BS%20Computer%20Science-Namal%20University-0f4c81?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Fellowship-GDGoC%20FAST%20Peshawar-blue?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Internship-CodeX%20Computing-orange?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/100%20Days-Bytewise%20Fellowship-green?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/BS%20Computer%20Science%20(2022--2026)-Namal%20University-0f4c81?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Fellowship%20(18%20Modules)-Bytewise%20Limited-2ea44f?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Fellowship-GDGoC%20FAST%20Peshawar-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beta%20Student%20Ambassador-Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20%26%20CS%20Tutor%20(5.0★)-Preply-FF7AAC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/31%20Skill%20Badges-Google%20Cloud-FBBC05?style=for-the-badge&logo=google-cloud&logoColor=black" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakarp789&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="abubakarp789" />
+  <img src="https://github-trophies.vercel.app/?username=abubakarp789&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="abubakarp789" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api?username=abubakarp789&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="47%" src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/top-langs/?username=abubakarp789&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=abubakarp789&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abubakarp789&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarp789&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abubakarp789&theme=tokyonight" alt="Contribution Graph" width="96%" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>🧠 ML & Data Science</h3>
+  <h3>🧠 AI, LLMs, ML & Data Science</h3>
   <p>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
   </p>
   
-  <h3>💻 Languages & Frameworks</h3>
+  <h3>💻 Languages, Full-Stack & Databases</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
   </p>
   
-  <h3>🔧 Tools & Platforms</h3>
+  <h3>🔧 DevOps, Testing & Cloud Platforms</h3>
   <p>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
 
@@ -141,7 +160,40 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Urdu Tweet Emotion Classifier</h3>
+      <h3 align="center">SudhaarAI (FYP)</h3>
+      <div align="center">
+        <a href="https://github.com/abubakarp789/SudhaarAI" target="_blank">
+          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=SudhaarAI&theme=tokyonight" alt="SudhaarAI" />
+        </a>
+        <p>
+          <a href="https://github.com/abubakarp789/SudhaarAI" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+          <a href="https://sudhaarai.me" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-9cf?style=for-the-badge&logo=microsoft-azure&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16, React 19, TypeScript, Flask, ChromaDB, Docker, Azure</strong> — Co-built AI code platform with 31 REST routes, a 9-stage RAG pipeline over 7,052 docs, 5-provider LLM fallback (Groq, OpenAI, Anthropic, Ollama, HuggingFace), an 18-feature AST/runtime quality scorer + 0.95 CodeBERT gate, and 550 automated tests.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Certea</h3>
+      <div align="center">
+        <a href="https://github.com/abubakarp789/Certea" target="_blank">
+          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=Certea&theme=tokyonight" alt="Certea" />
+        </a>
+        <p>
+          <a href="https://github.com/abubakarp789/Certea" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>FastAPI, Next.js 14, TypeScript, Cryptography, Pydantic, Pytest</strong> — Digital signature and certificate platform implementing RSA 2048-bit signing (PKCS#1 v1.5 & PSS), AES-256 encrypted key storage, X.509-style certificate workflows, a 404-line Pydantic validation module across 10 REST endpoints, and 320 automated pytest tests.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Urdu Tweet Emotion & Sentiment Classifier</h3>
       <div align="center">
         <a href="https://github.com/abubakarp789/Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets" target="_blank">
           <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=Robust-Sentiment-and-Emotion-Classification-on-Noisy-Urdu-Tweets&theme=tokyonight" alt="Urdu Sentiment Classifier" />
@@ -151,9 +203,58 @@ me.say_hi()
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
         </p>
-        <p><strong>Jupyter Notebook, Python, NLP, Deep Learning</strong> — An advanced NLP semester project designed to classify emotion and sentiment in highly noisy Urdu tweets using tokenizers and custom fine-tuned architectures.</p>
+        <p><strong>Python, PyTorch, Transformers (mBERT, XLM-R), Scikit-Learn, NLP</strong> — Co-developed a 1.05M-tweet Urdu preprocessing and evaluation pipeline benchmarking 8 model families across 19 notebooks, achieving 0.5040 sentiment and 0.2854 emotion Macro-F1 with Linear SVM alongside BiLSTM, mBERT, and XLM-RoBERTa.</p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Rumi House Hub</h3>
+      <div align="center">
+        <a href="https://github.com/abubakarp789/Rumi-House-Hub" target="_blank">
+          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=Rumi-House-Hub&theme=tokyonight" alt="Rumi House Hub" />
+        </a>
+        <p>
+          <a href="https://github.com/abubakarp789/Rumi-House-Hub" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>React 18, Vite, Node.js, Express 5, MongoDB, Vitest, Pytest</strong> — Team-built MERN web application featuring 7 Mongoose schemas, 5 modular REST routes, and three-layer authorization (HS256-pinned JWT auth, role middleware, and object-level policy enforcement in <code>accessPolicies.js</code>) backed by 74 automated tests.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Ustad — Cloud Lab AI Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/abubakarp789/ustad" target="_blank">
+          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=ustad&theme=tokyonight" alt="Ustad" />
+        </a>
+        <p>
+          <a href="https://github.com/abubakarp789/ustad" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+          <a href="https://ustad-kappa.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-9cf?style=for-the-badge&logo=vercel&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>Next.js 16, TypeScript, PostgreSQL (Prisma 7), Redis, Google Gemini</strong> — AI workflow application translating cloud lab instructions into CLI automation scripts with Zod runtime schema validation, regex safety filters, Clerk auth, Upstash Redis sliding-window rate limiting, and 16 Vitest tests.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">HR Attrition Predictor</h3>
+      <div align="center">
+        <a href="https://github.com/abubakarp789/HR-Attrition-Predictor" target="_blank">
+          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=HR-Attrition-Predictor&theme=tokyonight" alt="HR Attrition Predictor" />
+        </a>
+        <p>
+          <a href="https://github.com/abubakarp789/HR-Attrition-Predictor" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+        <p><strong>Python, Flask, React 19, Scikit-Learn, Pandas, Docker</strong> — End-to-end employee turnover prediction system powered by a 5-fold GridSearchCV Decision Tree (97.97% accuracy, 0.9566 minority-class F1, 0.9717 Macro-F1 on 14,999 rows) served via a 7-endpoint Flask REST API and React 19 dashboard.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">BarberAI</h3>
       <div align="center">
@@ -168,56 +269,7 @@ me.say_hi()
             <img src="https://img.shields.io/badge/LIVE-9cf?style=for-the-badge&logo=google-cloud&logoColor=black"/>
           </a>
         </p>
-        <p><strong>TypeScript, Node.js, AI, Full-Stack</strong> — An innovative AISeekho platform providing intelligent styling and interactive visualization, featuring a responsive TypeScript interface.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Python Log Analyzer</h3>
-      <div align="center">
-        <a href="https://github.com/abubakarp789/Python_Log_Analyzer" target="_blank">
-          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=Python_Log_Analyzer&theme=tokyonight" alt="Python Log Analyzer" />
-        </a>
-        <p>
-          <a href="https://github.com/abubakarp789/Python_Log_Analyzer" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Python, Information Security, Regex</strong> — Automated defensive operations tool built for CS-332 Information Security. Parses network, auth, and system logs in real-time to detect Blue Team threat anomalies.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Multi-User Remote Access</h3>
-      <div align="center">
-        <a href="https://github.com/abubakarp789/Multi-User-Remote-Access-System" target="_blank">
-          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=Multi-User-Remote-Access-System&theme=tokyonight" alt="Remote Access System" />
-        </a>
-        <p>
-          <a href="https://github.com/abubakarp789/Multi-User-Remote-Access-System" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Python, Sockets, Parallel Computing</strong> — Parallel and distributed computing project letting multiple remote clients securely connect to, execute commands on, and stream output from a single host machine.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">HR Attrition Predictor</h3>
-      <div align="center">
-        <a href="https://github.com/abubakarp789/HR-Attrition-Predictor" target="_blank">
-          <img src="https://github-readme-stats-rho-one-rhzpsnhvar.vercel.app/api/pin/?username=abubakarp789&repo=HR-Attrition-Predictor&theme=tokyonight" alt="HR Attrition Predictor" />
-        </a>
-        <p>
-          <a href="https://github.com/abubakarp789/HR-Attrition-Predictor" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="https://hrattritionpredictor56.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-9cf?style=for-the-badge&logo=streamlit&logoColor=black"/>
-          </a>
-        </p>
-        <p><strong>Python, Streamlit, sklearn, Pandas</strong> — High-accuracy machine learning model (97.96% accuracy) that predicts employee turnover patterns and delivers actionable retention insights for HR.</p>
+        <p><strong>React 19, TypeScript, Express, Firebase, Gemini Vision, Cloud Run</strong> — Built during the 3-day GDG AI Seekho Hackathon. Features multimodal face-shape analysis via server-side Gemini API proxying, booking workflows, default-deny Firestore security rules, and containerized Google Cloud Run deployment.</p>
       </div>
     </td>
     <td width="50%">
@@ -231,37 +283,39 @@ me.say_hi()
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
           </a>
         </p>
-        <p><strong>React, Node.js, Firebase, Azure</strong> — Scalable, real-time messaging and file-sharing app built as a semester project for CS-371 Cloud Computing, featuring secure channels and cloud storage.</p>
+        <p><strong>React 18, Node.js, Express, Firebase, Azure Blob Storage, Docker</strong> — Real-time messaging and file-sharing platform combining Firebase client auth, Express backend token verification, Firestore real-time listeners, and Azure Blob Storage media uploads.</p>
       </div>
     </td>
   </tr>
 </table>
 
-## 📅 Timeline of My Learning Journey
+## 📅 Timeline of My Journey
 
 ```mermaid
 gantt
-    title Abu Bakar's Learning & Tech Journey
+    title Abu Bakar's Education, Fellowships & Flagship Projects
     dateFormat  YYYY-MM-DD
     section Education & Experience
-    100 Days of Bytewise Fellowship             :a1, 2024-07-01, 100d
-    GDGoC FAST Peshawar ML Fellowship           :a2, 2024-08-01, 120d
-    Python Internship @ CodeX Computing         :a3, 2024-09-01, 90d
-    BS CS @ Namal University (Ongoing)          :active, a4, 2023-09-15, 2027-06-15
-    
-    section Core Projects
-    Customer Churn & Attrition Predictors       :2024-09-15, 60d
-    Tweet Virality Predictor (NLP)              :2024-11-01, 21d
-    Python Log Analyzer (Security)              :2025-05-27, 22d
-    Real-time Cloud Chat App (React/Azure)      :2025-06-18, 33d
-    Certea Cryptography & Digital Signatures   :2025-12-21, 28d
-    Multi-User Remote Access System             :2025-12-24, 31d
-    BarberAI & Urdu NLP Tweet Classifier        :2026-04-02, 50d
+    BS Computer Science @ Namal University      :done, edu1, 2022-10-01, 2026-07-15
+    Bytewise ML Fellowship (18 Modules)         :done, exp1, 2024-07-01, 2024-09-30
+    GDGoC FAST Peshawar ML Fellowship           :done, exp2, 2025-03-01, 2025-04-30
+    Online Python & CS Tutor @ Preply (5.0★)    :active, exp3, 2026-08-01, 2026-11-10
+
+    section Flagship Projects
+    HR Attrition Predictor (Flask + React)      :done, p1, 2025-03-15, 2025-05-15
+    Cloud Chat Application (React + Azure)      :done, p2, 2025-06-01, 2025-07-15
+    SudhaarAI FYP (RAG, 5 LLMs, 550 Tests)      :done, p3, 2025-10-01, 2026-05-31
+    Certea Cryptography Platform (320 Tests)    :done, p4, 2025-12-15, 2026-03-01
+    Urdu NLP (1.05M Tweets) & BarberAI          :done, p5, 2026-02-01, 2026-05-15
+    Rumi House Hub (74 Tests) & Ustad           :done, p6, 2026-03-15, 2026-06-30
 ```
 
 ## 📫 Connect With Me
 
 <div align="center">
+  <a href="https://abubakar056.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" />
+  </a>
   <a href="mailto:abubakarp789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -274,13 +328,15 @@ gantt
   <a href="https://huggingface.co/abubakar56" target="_blank">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge" />
   </a>
+  <a href="https://preply.com/en/tutor/8318168" target="_blank">
+    <img src="https://img.shields.io/badge/Preply%20Tutor-FF7AAC?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+build+intelligent+systems+together!;Open+to+ML+%26+AI+collaborations" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+build+intelligent+systems+together!;Open+to+AI%2FML+%26+Software+Engineering+Roles" />
 </h3>
 
 <a href="https://holopin.io/@abubakarp789" title="View my Holopin profile">
    <img src="https://holopin.me/abubakarp789" alt="@abubakarp789's Holopin badges" style="width: 100%; border-radius: 10px;">
 </a>
-
